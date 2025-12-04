@@ -89,6 +89,17 @@ cd DE10-Lite-Fall-Detection-System
 4. **Alarm State**: If countdown completes, LEDs strobe at 1Hz and display shows "HELP"
 5. **Reset**: Press KEY0 to clear alarm and return to monitoring
 
+## Demo Video
+
+📹 **[Watch the system in action](https://drive.google.com/drive/folders/1eEhtDU8e5RXOeQzP3CH7TExkWLTgeAB2?usp=drive_link)**
+
+A demonstration video showing the fall detection system operating in real-time is available in our Google Drive folder. The video includes:
+- System startup and idle state
+- Live fall detection trigger
+- Countdown sequence
+- Alarm state with LED strobe
+- False alarm cancellation
+
 ## Testing
 
 The system has been validated through multiple test scenarios:
