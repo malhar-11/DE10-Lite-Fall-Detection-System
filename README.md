@@ -49,9 +49,6 @@ The design consists of four modular components:
 
 - DE10-Lite FPGA Development Board (MAX10)
 - Built-in ADXL345 3-axis accelerometer
-- 7-segment displays (6x)
-- LEDs (10x)
-- Push buttons (KEY0 for reset/cancel)
 
 ## Getting Started
 
