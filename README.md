@@ -46,3 +46,6 @@ A full video demonstration of the project is available here:
 1. Analog Devices ADXL345 Datasheet.
 2. Terasic DE10-Lite User Manual.
 3. Scott Larson (DigiKey) for the base I2C Master logic.
+
+## 🌟 Support
+If you found this project helpful or interesting, please consider giving this repository a **Star**! ⭐
