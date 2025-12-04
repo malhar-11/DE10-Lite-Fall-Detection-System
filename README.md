@@ -25,9 +25,9 @@ This project implements a wearable monitoring device prototype on the Terasic DE
 
 ---
 
-## 📺 Demo & Resources
-A full video demonstration of the project and additional resources are available here:
-**[Google Drive: Demo Video & Resources](https://drive.google.com/drive/folders/1ZFHApQVdgc4gycO4dSYbovHTnhnI01Bb?usp=drive_link)**
+## 📺 Demo 
+A full video demonstration of the project is available here:
+**[Google Drive: Demo Video](https://drive.google.com/drive/folders/1eEhtDU8e5RXOeQzP3CH7TExkWLTgeAB2?usp=sharing)**
 
 ---
 
